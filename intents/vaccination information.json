@@ -1,0 +1,62 @@
+{
+  "id": "3f0c1f89-beed-454b-b6c1-380a9d60f705",
+  "name": "vaccination information",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://emvolio.gov.gr/sites/default/themes/govbootstrap/images/welcome-intro-logo.png",
+          "title": "COVID-19 Vaccination",
+          "buttons": [
+            {
+              "postback": "https://eody.gov.gr/wp-content/uploads/2021/05/odigies-emvoliasmou-sars-cov-2-202105-2.pdf",
+              "text": "General Information."
+            },
+            {
+              "postback": "https://emvolio.gov.gr/",
+              "text": "Book your vaccination!"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "facebook",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "If you need information for a specific vaccine, please type it\u0027s name."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "5b448da0-b62e-47f8-a6f2-a743932f7e99",
+  "parentId": "21688223-eb1b-4344-a985-3ce747988c06",
+  "rootParentId": "5cef5c9c-0966-42d8-8b59-d6f53211f733",
+  "name": "Catch covid places - yes - no",
+  "auto": true,
+  "contexts": [
+    "Catchcovidplaces-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Catchcovidplaces.Catchcovidplaces-yes.Catchcovidplaces-yes-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "facebook",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Well, i don\u0027t suggest you to make a detection covid-19 test. Just be careful!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

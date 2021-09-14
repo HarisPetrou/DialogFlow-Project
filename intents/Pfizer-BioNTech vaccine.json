@@ -1,0 +1,47 @@
+{
+  "id": "d3fea763-121e-4ab3-b2a7-4a831d89a0e5",
+  "name": "Pfizer-BioNTech vaccine",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://static.euronews.com/articles/stories/05/71/85/00/1440x810_cmsv2_784e93fa-e599-5b9c-8ba0-04fcffc94608-5718500.jpg",
+          "title": "Pfizer-BioNTech vaccine",
+          "buttons": [
+            {
+              "postback": "https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/Pfizer-BioNTech.html",
+              "text": "Official Information (Source CDC)"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

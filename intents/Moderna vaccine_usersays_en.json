@@ -1,0 +1,28 @@
+[
+  {
+    "id": "df702923-5bab-48a5-b5d9-b430bcb486ac",
+    "data": [
+      {
+        "text": "moderna vaccine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c858b111-4640-4f60-a265-0dcc627e8ddb",
+    "data": [
+      {
+        "text": "moderna",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

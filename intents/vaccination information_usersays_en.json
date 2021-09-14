@@ -1,0 +1,123 @@
+[
+  {
+    "id": "f637d07b-f65c-48f1-8613-160d52ebef01",
+    "data": [
+      {
+        "text": "vacination",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20c2017e-fd9a-4939-9aea-be0a0b9f125a",
+    "data": [
+      {
+        "text": "vacines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e855266-2926-4927-a432-3a7dc117c045",
+    "data": [
+      {
+        "text": "the ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25b90cc2-7d9b-4de0-a2b8-d92a4255f3df",
+    "data": [
+      {
+        "text": "first",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54e65143-5887-4189-88e0-6cdc9447206c",
+    "data": [
+      {
+        "text": "information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30846a1e-c525-45f0-b6bd-281b297c62e0",
+    "data": [
+      {
+        "text": "vaccines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c7afda7-629d-4933-aabc-38d9bd5505b6",
+    "data": [
+      {
+        "text": "vaccination information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbc606b4-8407-440e-9193-d524432f6b8d",
+    "data": [
+      {
+        "text": "vaccination",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e3d7ab6-00c1-4b69-8a25-932b86a9f5de",
+    "data": [
+      {
+        "text": "about vaccination",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

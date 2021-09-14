@@ -1,0 +1,110 @@
+[
+  {
+    "id": "151cd846-8f9e-4c94-ae5f-429689f45904",
+    "data": [
+      {
+        "text": "covid19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5322aefe-a637-44e1-b867-2dd74e0c0873",
+    "data": [
+      {
+        "text": "coronavirus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ff1ea51-4bdb-403d-8ac6-62d5faf26a66",
+    "data": [
+      {
+        "text": "maybe i catch covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d1fbcf8-a297-49cd-b4b7-807ab23e0ece",
+    "data": [
+      {
+        "text": "have covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "138af1e4-0f25-4ed1-9af5-ddf071abaa06",
+    "data": [
+      {
+        "text": "covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7afd128-916b-436d-ac85-f335a7f99c76",
+    "data": [
+      {
+        "text": "second",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7cb91613-1e78-49f8-a2b8-3aad0ed81d5b",
+    "data": [
+      {
+        "text": "the ",
+        "userDefined": false
+      },
+      {
+        "text": "second",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb57d963-03ad-4f7c-8362-f4375119cd0e",
+    "data": [
+      {
+        "text": "catch covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,73 @@
+{
+  "id": "b8a5fd8c-5671-4aec-922a-3da3b822de87",
+  "parentId": "872c6e36-567d-4927-ad2b-b4dfd1d57e2b",
+  "rootParentId": "5cef5c9c-0966-42d8-8b59-d6f53211f733",
+  "name": "Catch covid places - no - yes",
+  "auto": true,
+  "contexts": [
+    "Catchcovidplaces-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Catchcovidplaces.Catchcovidplaces-no.Catchcovidplaces-no-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "facebook",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Well, i suggest you to make a detection covid-19 test!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "platform": "facebook",
+          "title": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "payload": {
+                  "template_type": "open_graph",
+                  "elements": [
+                    {
+                      "url": "https://www.e-syntagografisi.gr/p-rv/p"
+                    }
+                  ]
+                },
+                "type": "template"
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

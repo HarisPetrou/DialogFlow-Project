@@ -1,0 +1,128 @@
+{
+  "id": "5cef5c9c-0966-42d8-8b59-d6f53211f733",
+  "name": "Catch covid places",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Catchcovidplaces-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "facebook",
+          "title": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "payload": {
+                  "elements": [
+                    {
+                      "subtitle": "Risk of contracting COVID-19 -\u003e  \n 8.85 / 10",
+                      "title": "Bar / NightClub / Concerts",
+                      "image_url": "https://images.pexels.com/photos/1283219/pexels-photo-1283219.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026dpr\u003d1\u0026w\u003d500"
+                    },
+                    {
+                      "subtitle": "Risk of contracting COVID-19 -\u003e  \n 7.54 / 10",
+                      "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?ixid\u003dMnwxMjA3fDB8MHxzZWFyY2h8MXx8cmVzdGF1cmFudCUyMGZvb2R8ZW58MHx8MHx8\u0026ixlib\u003drb-1.2.1\u0026w\u003d1000\u0026q\u003d80",
+                      "title": "Restaurants (indoor seating)"
+                    },
+                    {
+                      "image_url": "https://images.firstpost.com/wp-content/uploads/2020/07/gym-shutterstock-640.jpg",
+                      "title": "Gyms",
+                      "subtitle": "Risk of contracting COVID-19 -\u003e  \n 7.50 / 10"
+                    },
+                    {
+                      "subtitle": "Risk of contracting COVID-19 -\u003e  \n 7.38 / 10",
+                      "image_url": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/newseventsimage_1584983231517_mainnews2012_x1.jpg",
+                      "title": "Outside Gatherings That Aren’t Socially Distanced"
+                    },
+                    {
+                      "title": "Airports / Airplane",
+                      "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-03/15/full/1615749604-8212.jpg",
+                      "subtitle": "Risk of contracting COVID-19 -\u003e  \n 6.68 / 10"
+                    },
+                    {
+                      "title": "School",
+                      "subtitle": "Risk of contracting COVID-19 -\u003e  \n 5.64 / 10",
+                      "image_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/DBC7/production/_116336265_schools.jpg"
+                    },
+                    {
+                      "subtitle": "Risk of contracting COVID-19 -\u003e  \n 5.54 / 10",
+                      "title": "Public Transport",
+                      "image_url": "https://assets.weforum.org/article/image/NmcIbnHXGD_I1CXzO3NS8_2TXwapNmxutvglRNyEoAc.jpg"
+                    },
+                    {
+                      "subtitle": "Risk of contracting COVID-19 -\u003e  \n 5.00 / 10",
+                      "title": "Supermarket / Shops",
+                      "image_url": "https://core-sa.com/wp-content/uploads/2020/01/admiral-tsimiski-2.jpg"
+                    },
+                    {
+                      "image_url": "https://static.dw.com/image/53583787_401.jpg",
+                      "subtitle": "Risk of contracting COVID-19 -\u003e  \n 3.73 / 10",
+                      "title": "Outside Gatherings That Are Socially Distanced"
+                    },
+                    {
+                      "buttons": [
+                        {
+                          "url": "https://civicmeter.com/full-results-covid-19-survey-of-epidemiologists-on-reopening-risks-and-data-quality/",
+                          "title": "View Survey",
+                          "type": "web_url"
+                        }
+                      ],
+                      "title": "A survey by CivicMeter",
+                      "subtitle": "We have the right hat for everyone.",
+                      "image_url": "https://www.civicmeter.com/wp-content/uploads/2017/12/Civic-Meter-logo-biggest.png"
+                    }
+                  ],
+                  "template_type": "generic"
+                },
+                "type": "template"
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "facebook",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Well, first let\u0027s see above, the riskiest places for catching coronavirus. Have you recently visit one or more of them?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

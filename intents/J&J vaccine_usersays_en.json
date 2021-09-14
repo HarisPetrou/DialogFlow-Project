@@ -1,0 +1,58 @@
+[
+  {
+    "id": "3046a3b2-75f0-4428-b87c-26936159266c",
+    "data": [
+      {
+        "text": "jonson",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eecf38a3-9603-4681-b394-4857edf28690",
+    "data": [
+      {
+        "text": "johnson vaccine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "287ddb47-6e77-4af3-bebb-5dcbf30b0b8e",
+    "data": [
+      {
+        "text": "johnson and ",
+        "userDefined": false
+      },
+      {
+        "text": "johnson",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24e7e614-c558-42fb-b1bf-105ac8650ba7",
+    "data": [
+      {
+        "text": "j\u0026j",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "id": "4226b26f-9686-48f0-9e97-b9a8b523fbcf",
+  "parentId": "872c6e36-567d-4927-ad2b-b4dfd1d57e2b",
+  "rootParentId": "5cef5c9c-0966-42d8-8b59-d6f53211f733",
+  "name": "Catch covid places - no - no",
+  "auto": true,
+  "contexts": [
+    "Catchcovidplaces-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Catchcovidplaces.Catchcovidplaces-no.Catchcovidplaces-no-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Very well, i don\u0027t suggest you to make a detection covid-19 test! You are so careful!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

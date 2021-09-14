@@ -1,0 +1,47 @@
+{
+  "id": "91a8355d-edb2-459e-99eb-1d12ecd0d6e8",
+  "name": "J\u0026J vaccine",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://cdnuploads.aa.com.tr/uploads/Contents/2021/07/09/thumbs_b_c_d5a56a29af12aecdc69b4e1cd19b131e.jpg?v\u003d062325",
+          "title": "Johnson \u0026 Johnson vaccine",
+          "buttons": [
+            {
+              "postback": "https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/janssen.html",
+              "text": "Official Information (source CDC)"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

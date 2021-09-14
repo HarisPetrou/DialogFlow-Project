@@ -1,0 +1,67 @@
+[
+  {
+    "id": "089a345c-cc4f-44c4-81a2-7d914e17142e",
+    "data": [
+      {
+        "text": "Vaxzevria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aebc8483-4618-4c85-aa5e-93addfe03362",
+    "data": [
+      {
+        "text": "AstraZeneca vaccine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86cfc742-dbfe-4406-8ccd-38432a30d584",
+    "data": [
+      {
+        "text": "astrazeneka",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5903e092-05ad-4b7f-b2c1-c8e7c7a8cc56",
+    "data": [
+      {
+        "text": "Astra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a8d2cda-f1e3-49f1-a38a-529f10dec9ae",
+    "data": [
+      {
+        "text": "AstraZeneca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

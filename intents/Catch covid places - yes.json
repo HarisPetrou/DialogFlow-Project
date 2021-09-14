@@ -1,0 +1,69 @@
+{
+  "id": "21688223-eb1b-4344-a985-3ce747988c06",
+  "parentId": "5cef5c9c-0966-42d8-8b59-d6f53211f733",
+  "rootParentId": "5cef5c9c-0966-42d8-8b59-d6f53211f733",
+  "name": "Catch covid places - yes",
+  "auto": true,
+  "contexts": [
+    "Catchcovidplaces-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Catchcovidplaces.Catchcovidplaces-yes",
+      "affectedContexts": [
+        {
+          "name": "Catchcovidplaces-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "facebook",
+          "title": "",
+          "payload": {
+            "facebook": {
+              "quick_replies": [
+                {
+                  "content_type": "text",
+                  "title": "Yes, i have",
+                  "payload": "Yes, i have"
+                },
+                {
+                  "content_type": "text",
+                  "payload": "No, i haven\u0027t",
+                  "title": "No, i haven\u0027t"
+                }
+              ],
+              "text": "Well, do you have any of the following symptoms, too?  \n -Fever or chills  \n -Cough  \n -Shortness of breath or difficulty breathing  \n -Fatigue  \n -Muscle or body aches  \n -Headache  \n -New loss of taste or smell"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
